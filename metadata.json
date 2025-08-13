@@ -1,0 +1,6 @@
+{
+  "name": "TÜFE Katkı Analiz Aracı",
+  "description": "A conversational AI tool to analyze the contribution of individual item price changes to the monthly inflation rate (TÜFE) in Turkey, using natural language queries.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
